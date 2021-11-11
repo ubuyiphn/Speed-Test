@@ -1,2 +1,85 @@
-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
-This token can be used as a github password.
+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 - This token can be used as a github password.
+
+xpath_ubuy_main_search_field_at_home_page = "//input[@title='Search']";
+xpath_ubuy_main_search_icon_at_home_page = "//em[@class='fas fa-search']";
+
+String xpath_uk_amazon_detail_page = "//img[starts-with(@src,'https://m.media-amazon.com')]/parent::a";
+String xpath_uk_ebay_detail_page = "//img[starts-with(@src,'https://i.ebayimg.com')]/parent::a";
+String xpath_uk_argos_detail_page = "//img[starts-with(@src,'https://media.4rgos.it')]/parent::a";
+String xpath_uk_asos_detail_page  = "//img[starts-with(@src,'https://images.asos-media.com')]/parent::a";
+
+String xpath_ch_jd_detail_page = "//img[starts-with(@src,'//img10(11/12/13/14).360buyimg.com')]/parent::a";
+String xpath_ch_taobao_detail_page = "//img[starts-with(@src,'//img.alicdn.com')]/parent::a";
+
+String xpath_hk_aliexpress_detail_page = "//img[starts-with(@src,'https://ae01.alicdn.com')]/parent::a";
+
+String xpath_jp_amazon_detail_page = "//img[starts-with(@src,'https://m.media-amazon.com')]/parent::a";
+
+String xpath_kr_gmarket_detail_page = "//img[starts-with(@src,'//gdimg.gmarket.co.kr')]/parent::a";
+
+String xpath_US_Amazon_Detail_Page = "//img[starts-with(@src,'https://m.media-amazon.com/images')]//parent::a";
+	
+String xpath_US_Walmart_Detail_Page = "//img[starts-with(@src,'https://i5.walmartimages.com')]/parent::a";
+	
+String xpath_US_Ebay_Detail_Page = "//img[starts-with(@src,'https://i.ebayimg.com')]/parent::a";
+	
+String xpath_US_Gshopping_Detail_Page = "//img[starts-with(@src,'https://encrypted-tbn0.gstatic.com/shopping')]/parent::a";
+	
+String xpath_US_HomeDepot_Detail_Page = "//img[starts-with(@src,'https://images.thdstatic.com')]/parent::a";
+	
+String xpath_US_Target_Detail_Page = "";
+	
+String URL_US_Fanatics_Store = "https://www.a.ubuy.com.kw/en/ubuy-sports-store/?sort_by=TopSellers";
+String xpath_US_Fanatics_Search_Field = "//input[@name='search_title']";
+String xpath_US_Fanatics_Search_Icon = "//i[@class='fas fa-search search_icon']";
+String xpath_US_Fanatics_Detail_Page = "//img[starts-with(@src,'https://fanatics.frgimages.com')]/parent::a";
+	
+String URL_US_Forever21_Store = "https://www.a.ubuy.com.kw/en/fashion/";
+String xpath_US_Forever21_Search_Field = "//input[@name='search_title']";
+String xpath_US_Forever21_Search_Icon = "//i[@class='fas fa-search search_icon']";
+String xpath_US_Forever21_Detail_Page = "//img[starts-with(@src,'https://www.forever21.com')]/parent::a";
+	
+String URL_US_MMLafleur_Store = "https://www.a.ubuy.com.kw/en/ubuy-women-wardrobe-store";
+String xpath_US_MMLafleur_Search_Field = "//input[@name='search_title']";
+String xpath_US_MMLafleur_Search_Icon = "//i[@class='fas fa-search search_icon']";
+String xpath_US_MMLafleur_Detail_Page = "//img[starts-with(@src,'https://bbts1.azureedge.net')]/parent::a";
+	
+String URL_US_BBToys_Store = "https://www.a.ubuy.com.kw/en/ubuy-toys-store";
+String xpath_US_BBToys_Search_Field = "//input[@name='search_title']";
+String xpath_US_BBToys_Search_Icon = "//i[@class='fas fa-search search_icon']";
+String xpath_US_BBToys_Detail_Page = "//img[starts-with(@src,'https://bbts1.azureedge.net')]/parent::a";
+	
+String URL_US_GuitarCentre_Store = "https://www.a.ubuy.com.kw/en/musical-instruments-store";
+String xpath_US_GuitarCentre_Search_Field = "//input[@name='search_title']";
+String xpath_US_GuitarCentre_Search_Icon = "//i[@class='fas fa-search search_icon']";
+String xpath_US_GuitarCentre_Detail_Page = "//img[starts-with(@src,'https://media.guitarcenter.com')]/parent::a";
+	
+String URL_US_Staples_Store = "https://www.a.ubuy.com.kw/en/ubuy-office-products-store";
+String xpath_US_Staples_Search_Field = "//input[@name='search_title']";
+String xpath_US_Staples_Search_Icon = "//i[@class='fas fa-search search_icon']";
+String xpath_US_Staples_Detail_Page = "//img[starts-with(@src,'https://www.staples-3p.com')]/parent::a";
+	
+String URL_US_BodyCandy_Store = "https://www.a.ubuy.com.kw/en/body-piercing-jewelry-store";
+String xpath_US_BodyCandy_Search_Field = "//input[@name='search_title']";
+String xpath_US_BodyCandy_Search_Icon = "//i[@class='fas fa-search search_icon']";
+String xpath_US_BodyCandy_Detail_Page = "//img[starts-with(@src,'https://cdn.shopify.com')]/parent::a";
+	
+String URL_US_Fragrancenet_Store = "https://www.a.ubuy.com.kw/en/musical-instruments-store";
+String xpath_US_Fragrancenet_Search_Field = "//input[@name='search_title']";
+String xpath_US_Fragrancenet_Search_Icon = "//i[@class='fas fa-search search_icon']";
+String xpath_US_Fragrancenet_Detail_Page = "//img[starts-with(@src,'//cdn.fragrancenet.com')]/parent::a";
+	
+String URL_US_Diesel_Store = "https://www.a.ubuy.com.kw/en/diesel-store";
+String xpath_US_Diesel_Search_Field = "//input[@name='search_title']";
+String xpath_US_Diesel_Search_Icon = "//i[@class='fas fa-search search_icon']";
+String xpath_US_Diesel_Detail_Page = "//img[starts-with(@src,'https://media.guitarcenter.com')]/parent::a";
+	
+String URL_US_Bestbuy_Store = "https://www.a.ubuy.com.kw/en/ubuy-electronics-store";
+String xpath_US_Bestbuy_Search_Field = "//input[@name='search_title']";
+String xpath_US_Bestbuy_Search_Icon = "//i[@class='fas fa-search search_icon']";
+String xpath_US_Bestbuy_Detail_Page = "//img[starts-with(@src,'https://pisces.bbystatic.com')]/parent::a";
+
+
+	
+	
+	
