@@ -76,3 +76,51 @@ String URL_US_Bestbuy_Store = "https://www.a.ubuy.com.kw/en/ubuy-electronics-sto
 String xpath_US_Bestbuy_Search_Field = "//input[@name='search_title']";
 String xpath_US_Bestbuy_Search_Icon = "//i[@class='fas fa-search search_icon']";
 String xpath_US_Bestbuy_Detail_Page = "//img[starts-with(@src,'https://pisces.bbystatic.com')]/parent::a";
+
+Walmart
+URL - https://www.walmart.com/all-departments
+Keyword div -//div[@class='w_Ad w_Bc w_Ap w_Av w_A5 tl mt4']/div/div/ul/li 
+
+Ebay
+URL - https://www.ebay.com/n/all-categories
+Keyword xpath = //div[@class='content-container']/div/div/div/div/ul/li/a
+
+Target
+URL - https://www.target.com/c/shop-all-categories/-/N-5xsxf?tag=ShopAll_CN
+Keyword xpath = //div[@data-component-contenttype='static']/div/div[2]/div/div/ul/li/a/div[2]
+
+HomeDepot
+URL - https://www.homedepot.com/c/site_map
+Keyword xpath = //div[@class='grid isBound grid--border']/div/div/div/p/a
+
+Forever21
+URL - https://www.forever21.in/social/shop-the-gram
+Keyword xpath = //div[@class='topNav-ContentList']/a
+
+Fanatics
+URL -  https://www.fanatics.com/
+Kyeword xpath = //div[@class='dropdown-content']/div/div/div/a/div[3]
+
+BBToys
+URL - https://www.bbtoystore.com/
+Keyword xpath = //ul[@id='js-navigation-set']/li/ul/li/ul/li/span/a
+
+GuitarCentre
+URL - https://www.guitarcenter.com/
+Keyword Xpath = //li[@class='nav-bar-li -departments']/div/ol/li/div/div[2]/span/ol/li/a
+
+MMLafleur
+Keywords - {"Dresses" , "Tops" , "T-Shirts" , "Pants,Jackets" , "Sweaters" , "Skirts" , "Shoes" , "Jewelry" , "Accessories" , "Gifts" , "Gift Cards" , "Plus Sizes"}
+
+BodyCandy
+URL -  https://www.bodycandy.com/pages/more-jewelry
+Keywords xpath = //div[@class="grid-item column-item line-height--0 padding-top-bottom--down-7"]/a
+
+Fragrancenet
+URL - https://www.fragrancenet.com/fragrances
+https://www.fragrancenet.com/skincare
+https://www.fragrancenet.com/makeup
+https://www.fragrancenet.com/haircare
+https://www.fragrancenet.com/candles
+Keyword xpath = //li[@class="featured disabled"]/following-sibling::li/a/span[3]
+
