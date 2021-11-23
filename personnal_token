@@ -5,8 +5,11 @@ id - testing
 password - testing@123
 url - http://192.168.1.223:8080/login
 
-How to uninstall java completely from Ubuntu -
+How to uninstall java completely in Ubuntu -
 https://askubuntu.com/questions/84483/how-to-completely-uninstall-java
+
+How to install java 11 in Ubuntu - 
+https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-20-04
 
 
 
