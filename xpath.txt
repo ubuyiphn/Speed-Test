@@ -124,3 +124,7 @@ https://www.fragrancenet.com/haircare
 https://www.fragrancenet.com/candles
 Keyword xpath = //li[@class="featured disabled"]/following-sibling::li/a/span[3]
 
+//Scroll to specific element
+var elmnt = document.getElementById("content");
+elmnt.scrollIntoView();
+
