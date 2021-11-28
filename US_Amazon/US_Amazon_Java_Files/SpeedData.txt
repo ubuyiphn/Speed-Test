@@ -1,1 +1,73 @@
-Script start date and time is 23/11/2021 19:50:25
+Script start date and time is 27/11/2021 23:45:34
+
+List page load time for (Newbee)1 keyword =4414 MilliSeconds
+
+	Detail page load time = 4341 for (https://www.ubuy.co.in/product/47DCG6P3C-newbee-fashion-portable-compact-reading-glasses-in-aluminum-case-metal-rectangle-rimless-reading-glasses-super-lightweight-reader-slim-design-comfort)
+
+	Detail page load time = 4093 for (https://www.ubuy.co.in/product/1BNZ0S6K-unisex-translucent-simple-design-no-logo-clear-lens-glasses-squared-fashion-frames)
+
+	Detail page load time = 4581 for (https://www.ubuy.co.in/product/37T8T34-new-bee-bluetooth-earpiece-v5-0-wireless-handsfree-headset-with-microphone-24-hrs-driving-headset-60)
+
+	Detail page load time = 17192 for (https://www.ubuy.co.in/product/8YUZ3IL0-retro-unisex-squared-celebrity-star-simple-clear-lens-fashion-glasses)
+
+	Detail page load time = 3612 for (https://www.ubuy.co.in/product/1A6I5QZO4-newbee-fashion-sensi-simple-squared-light-weight-no-logo-fashion-clear-lens-glasses)
+
+	Detail page load time = 4392 for (https://www.ubuy.co.in/product/47DCHAZCQ-newbee-fashion-tube-reading-glasses-100-hot-pink)
+
+List page load time for (Mysenlan)2 keyword =5046 MilliSeconds
+
+	Detail page load time = 1803 for (https://www.ubuy.co.in/product/14ZFWI25S-mysenlan-men-x27-s-cycling-jersey-long-sleeve-shirts-bike-bicycle-breathable-riding-sports-jerseys)
+
+	Detail page load time = 4100 for (https://www.ubuy.co.in/product/FEOYXK4-przewalski-mens-3d-padded-cycling-bike-bib-shorts-excellent-performance-and-better-fit)
+
+	Detail page load time = 6166 for (https://www.ubuy.co.in/product/T10IWFO-vebe-men-women-cycling-gloves-mountain-bike-gloves-breathable-shock-absorbing-bicycle-gloves-with-5m)
+
+	Detail page load time = 107 for (https://www.ubuy.co.in/product/1IPKFG5PO-catena-men-x27-s-cycling-jersey-sports-professional-short-sleeve-breathable-bike-shirt-bicycle-tight-clothing-quick-dry)
+
+	Detail page load time = 4940 for (https://www.ubuy.co.in/product/3W72XOU9O-jpojpo-racing-cycling-jersey-men-men-x27-s-bike-tops-s-3xl-polyester-reflective-zipper-4-pockets)
+
+	Detail page load time = 3985 for (https://www.ubuy.co.in/product/1AE7EL6XC-team-bora-cycling-jersey-tops-summer-racing-cycling-clothing-mtb-bike-jersey-shirt)
+
+List page load time for (ILNCLUY)3 keyword =3985 MilliSeconds
+
+	Detail page load time = 4851 for (https://www.ubuy.co.in/product/3PLHAFQ-hasbro-gaming-clue-wizarding-world-harry-potter-edition-mystery-board-game-for-3-5-players-kids-ages)
+
+	Detail page load time = 7987 for (https://www.ubuy.co.in/product/6SDPPE-baby-playpen-kids-large-playard-with-50pcs-pit-balls-indoor-outdoor-kids-activity-center-infant-safe)
+
+	Detail page load time = 52 for (https://www.ubuy.co.in/product/1CT3E9K-foreverspin-titanium-spinning-top-world-famous-spinning-tops)
+
+	Detail page load time = 5448 for (https://www.ubuy.co.in/product/OQ1WCQ-jianyia-super-hero-cake-decorations-home-decoration-titan-hero-sculpture-worth-collecting-24-pieces)
+
+	Detail page load time = 3136 for (https://www.ubuy.co.in/product/5NVP2S-yihua-862bd-smd-esd-safe-2-in-1-soldering-iron-hot-air-rework-station-f-c-with-multiple-functions)
+
+	Detail page load time = 3321 for (https://www.ubuy.co.in/product/5I6388-fuseworks-craft-kiln-kit)
+
+List page load time for (Jormatt)4 keyword =5198 MilliSeconds
+
+	Detail page load time = 6739 for (https://www.ubuy.co.in/product/13WR27OXI-jormatt-kids-upf-50-boys-sun-hat-uv-sun-protection-mens-outdoor-girls-beach-hats-with-neck-flap-navy)
+
+	Detail page load time = 3591 for (https://www.ubuy.co.in/product/PCTJGJ2-jormatt-3-pairs-women-fuzzy-gripper-socks-non-skid-men-thick-cozy-slipper-hospital-socks-with-grips)
+
+	Detail page load time = 8305 for (https://www.ubuy.co.in/product/7ZLZ1E62-jormatt-women-men-outdoor-sun-hat-uv-protection-fishing-hiking-caps-with-face-neck-flap-cover-upf-50)
+
+	Detail page load time = 3617 for (https://www.ubuy.co.in/product/FBGGHK4-anti-slip-athletic-plush-slipper-grip-socks-women-yoga-pilates-soft-warm-cozy-socks)
+
+	Detail page load time = 6532 for (https://www.ubuy.co.in/product/CCM8BYG-unisex-anti-skid-no-slip-hospital-slipper-socks-with-grips-for-pilates-yoga-barre-home-bella-dance-a)
+
+	Detail page load time = 5789 for (https://www.ubuy.co.in/product/DL24HD6-non-slip-skid-socks-with-grips-for-hospital-yoga-pilates)
+
+List page load time for (CozTake)5 keyword =6326 MilliSeconds
+
+	Detail page load time = 10285 for (https://www.ubuy.co.in/product/NG7UJ6-atkins-endulge-treat-tart-dessert-bar-1-2-oz-pack-of-5-lemon-1-count)
+
+	Detail page load time = 2717 for (https://www.ubuy.co.in/product/6UA96W-clif-kid-organic-granola-bars-variety-pack-gluten-free-organic-non-gmo-lunch-box-snacks-1-27-ounce-e)
+
+	Detail page load time = 4327 for (https://www.ubuy.co.in/product/2YYJIVY-eurmax-galvanized-non-rust-outdoor-camping-family-tent-pop-up-canopy-stakes-10pc-pack-with-4x10ft-ro)
+
+	Detail page load time = 45 for (https://www.ubuy.co.in/product/5OGHAY-rxbar-vanilla-almond-butter-nut-protein-spread-10-ounce)
+
+	Detail page load time = 75 for (https://www.ubuy.co.in/product/1W604YC-health-warrior-pumpkin-seed-protein-bars-honey-sea-salt-8g-plant-protein-gluten-free-certified-organ)
+
+	Detail page load time = 4126 for (https://www.ubuy.co.in/product/BZWXIB2-yard-tuff-ytf-3818rs-12pk-3-8-x-18-rebar-stakes-12-pack)
+
+Script end date and time is 27/11/2021 23:52:34

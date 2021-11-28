@@ -21,7 +21,28 @@ public class wait
 	
     public static String Is_Pagination_Available_xpath = "//div[@class='store-filter clearfix w-100']";
     
-	
+    public static Boolean availability;
+    
+    public static Boolean verify_xpath(String x_path)
+	{
+		try
+		{
+			availability = Browsers.driver.findElement(By.xpath(x_path)).isDisplayed();
+			
+			System.out.println(x_path+""+availability);
+			
+			return availability;
+		}
+		
+		catch(Exception e)
+		{
+			availability = false;
+			
+			System.out.println(x_path+""+availability);
+			
+			return availability;
+		}
+	}
     
     public static void waitforkeywordpage()
     {
@@ -49,13 +70,16 @@ public class wait
        		
        		ImportedPackages.finish = 0;
        		
+       		ImportedPackages.IsUSProductAvailable = false;
+       		
+       		if(verify_xpath("//div[@class='loader-spin-overlay loading']/div") == true || verify_xpath("//div[@class='detail-page-skelton container card-skeleton']") == true)
+       		{
        		test_detail_speed.speeddatastream.append("US Store products not searched within 20 seconds for "+ImportedPackages.searchedkeyword+" keyword. So moving to next keyword.");
     	
        		Screenshot.takescreenshot();
        		
-       		ImportedPackages.IsUSProductAvailable = false;
-       		
        		SendMail.send_search_error_mail();
+       		}
        		
     	}
       
@@ -108,11 +132,14 @@ public class wait
     	}
     	catch(Exception e)
     	{
+    		if(verify_xpath("//div[@class='loader-spin-overlay loading']/div") == true || verify_xpath("//div[@class='detail-page-skelton container card-skeleton']") == true)
+    		{
     		test_detail_speed.speeddatastream.append("Detail page taking more than 20 seconds.("+AmazonProductsAtListPage.just_hit_url+")");
     	
     		Screenshot.takescreenshot();
     		
     		SendMail.send_detail_error_mail();
+    		}
     	}
     }
    
