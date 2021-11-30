@@ -44,26 +44,30 @@ public class test_detail_speed
 				Browsers.maximizewindow();
 				speeddatastream.append("Script start date and time is "+get_current_date_and_time.print_Current_Date_And_Time()+"\n");
 				HitURL.hitsearchkeywordpageURL();
-				while (ImportedPackages.turn <= 5) 
+				while (ImportedPackages.turn <= 10) 
 				{
 					GetPage.GetSearchPageusingexcel();
 					list_page_url = Browsers.driver.getCurrentUrl();
 					pagination_count = pgn.get_pagination_count();
 					pagination_random_count = pgn.get_pagination_random_number();
 					us_amazon_product_avaiability = Helper.wait.is_us_amazon_products_available();
-					if(us_amazon_product_avaiability) 
+					if(us_amazon_product_avaiability == true) 
 					{
 						TimeCalculation.listpageloadtime();
 						speeddatastream.append("\nList page load time for (" +ImportedPackages.searchedkeyword+")"+ImportedPackages.turn + " keyword ="+ ImportedPackages.totaltime + " MilliSeconds\n");
 						KeywordsInExcel.rowcount++;
-						Helper.HitDetailPage.HitUSDetailPage();
-						pgn.hit_pagination_url();
-						us_amazon_product_avaiability = Helper.wait.is_us_amazon_products_available();
-						if(us_amazon_product_avaiability) 
+						if(ImportedPackages.turn <= 5)
 						{
-							Helper.HitDetailPage.HitUSDetailPage();
+						    Helper.HitDetailPage.HitUSDetailPage();
+						    pgn.hit_pagination_url();
+						    us_amazon_product_avaiability = Helper.wait.is_us_amazon_products_available();
+						    if(us_amazon_product_avaiability== true) 
+						    {
+						    	Helper.HitDetailPage.HitUSDetailPage();
+						    }
 						}
 						ImportedPackages.turn++;
+						
 					}
 				}
 				speeddatastream.append("\nScript end date and time is "+get_current_date_and_time.print_Current_Date_And_Time());
