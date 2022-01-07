@@ -1,0 +1,69 @@
+Script start date and time is 07/01/2022 08:56:23
+
+List page load time for (AlloyMedicalUSA)2 keyword =30716 MilliSeconds
+
+	Detail page load time = 3053 for (https://www.a.ubuy.com.kw/en/product/FJ4FJ8M-tabbies-patient-sign-in-label-forms-8-1-2-x-11-form-salmon-23-labels-sheet-125-sheets-pack-tab14530)
+
+	Detail page load time = 70 for (https://www.a.ubuy.com.kw/en/product/1YLPC10O-professional-best-callus-remover-gel-for-feet-and-foot-pumice-stone-scrubber-kit-remove-hard-skins-h)
+
+	Detail page load time = 59 for (https://www.a.ubuy.com.kw/en/product/21J7GK0-medline-msc094544h-remedy-olivamine-4-ounce-calazime-skin-protectant-paste-cream-used-with-dry-chapp)
+
+	Detail page load time = 20291 for (https://www.a.ubuy.com.kw/en/product/CK11WZ4-tempur-pedic-tempur-ergo-neck-pillow-medium-cooling-blue)
+
+	Detail page load time = 4656 for (https://www.a.ubuy.com.kw/en/product/MKB5TE-official-modernist-cuisine-spherification-kit-molecular-gastronomy-non-gmo-gluten-free-vegan-ou-kosh)
+
+	Detail page load time = 744 for (https://www.a.ubuy.com.kw/en/product/MCDOLA-dripdrop-ors-electrolyte-powder-for-dehydration-relief-fast-for-workout-sweating-illness-travel-reco)
+
+List page load time for (TUSA)3 keyword =4188 MilliSeconds
+
+	Detail page load time = 6566 for (https://www.a.ubuy.com.kw/en/product/D7EV4BS-tusa-sp-170-platina-hyperdry-ii-scuba-diving-snorkel)
+
+	Detail page load time = 4794 for (https://www.a.ubuy.com.kw/en/product/KQDR3RDM-tusa-sport-adult-visio-tri-ex-black-series-mask-and-dry-snorkel-combo)
+
+	Detail page load time = 3819 for (https://www.a.ubuy.com.kw/en/product/YNURA1IW-tusa-fk-910-920-x-pert-ii-dive-knife)
+
+	Detail page load time = 4987 for (https://www.a.ubuy.com.kw/en/product/21OH3DG6-tusa-solla-full-foot-fins)
+
+	Detail page load time = 19072 for (https://www.a.ubuy.com.kw/en/product/15719CHVG-tusa-concero-frameless-silicone-single-lens-snorkel-scuba-mask)
+
+	Detail page load time = 2840 for (https://www.a.ubuy.com.kw/en/product/LKXIKAY6-aluminum-single-tank-adapter-set-for-t-wing-bcd)
+
+List page load time for (Oranginer)4 keyword =11669 MilliSeconds
+
+	Detail page load time = 7242 for (https://www.a.ubuy.com.kw/en/product/2179WFU-house-day-black-magic-hangers-space-saving-clothes-hangers-organizer-smart-closet-space-saver-pack-o)
+
+	Detail page load time = 4922 for (https://www.a.ubuy.com.kw/en/product/6LS2DURA-xero-shoes-hfs-women-s-lightweight-barefoot-inspired-minimalist-road-running-fitness-shoe-zero-drop)
+
+	Detail page load time = 8575 for (https://www.a.ubuy.com.kw/en/product/D47OA6TC-oranginer-men-s-barefoot-minimalist-shoes-wide-toe-box-shoes-for-men-women-cross-training-gym-five-f)
+
+	Detail page load time = 3371 for (https://www.a.ubuy.com.kw/en/product/1WYHIUG-52-acrylic-yarn-skeins-2080-yards-crochet-yarn-with-reusable-storage-bag-includes-6-e-books-2-croche)
+
+	Detail page load time = 6083 for (https://www.a.ubuy.com.kw/en/product/3V753HX7U-men-x27-s-water-shoes-quick-dry-barefoot-wide-toe-aqua-sport-shoes-for-pool-swim-surf-hiking-beach)
+
+	Detail page load time = 4890 for (https://www.a.ubuy.com.kw/en/product/4Z5H9BU-couch-arm-tray-for-coffee-wine-beer-snacks-and-remote-control-natural-wood-sofa-armrest-table-works)
+
+List page load time for (GymCompany)5 keyword =10118 MilliSeconds
+
+	Detail page load time = 7423 for (https://www.a.ubuy.com.kw/en/product/6KMML75G-women-high-waist-workout-gym-camo-seamless-leggings-yoga-pants-tights)
+
+	Detail page load time = 3241 for (https://www.a.ubuy.com.kw/en/product/3SRVYGO-nice-c-adjustable-dumbbell-barbell-weight-pair-free-weights-2-in-1-set-non-slip-neoprene-hand-all-pu)
+
+	Detail page load time = 645 for (https://www.a.ubuy.com.kw/en/product/5EQ5HE-flybird-adjustable-dumbbells-25-lb-single-dumbbell-for-men-and-women-with-anti-slip-metal-handle-fas)
+
+	Detail page load time = 9496 for (https://www.a.ubuy.com.kw/en/product/1GGLNATU-tsutaya-seamless-leggings-high-waisted-women-s-yoga-pants-workout-stretchy-vital-activewear-tummy-co)
+
+	Detail page load time = 66 for (https://www.a.ubuy.com.kw/en/product/3P0XT0FK0-nooz-men-s-cool-dry-compression-ankle-length-capri-shorts-baselayer-legging-shorts-tights-capri-dark-gray-small)
+
+	Detail page load time = 54 for (https://www.a.ubuy.com.kw/en/product/1ELSMV36-datacard-color-ribbon-ymckt-sd260-sd360-sd460-sp35-sp35-sp55-sp55-sp55k-sp75-sp75-500-images)
+
+List page load time for (Alluring)6 keyword =5505 MilliSeconds
+
+List page load time for (ZWJPW)7 keyword =10697 MilliSeconds
+
+List page load time for (Yokon)8 keyword =8970 MilliSeconds
+
+List page load time for (Pumpumly)9 keyword =9227 MilliSeconds
+
+List page load time for (QZBAOSHU)10 keyword =12909 MilliSeconds
+
+Script end date and time is 07/01/2022 09:05:54
